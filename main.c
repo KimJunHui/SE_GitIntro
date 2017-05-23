@@ -20,8 +20,7 @@ int mult(int a, int b)
 
 double div(int a, int b)
 {
-    printf("TODO: div\n");
-    return -1;
+    return (double)a/b;
 }
 
 int main(int argc, char** argv)
